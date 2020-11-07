@@ -1,8 +1,8 @@
 # labspy02-dan-03
-** Nama   : Siti Latifah**<br>
-** NIM    : 312010321**<br>
-** kelas  : TI.2O.A2**<br>
-** Matkul : Bahasa Pemrograman**<br>
+**Nama   : Siti Latifah**<br>
+**NIM    : 312010321**<br>
+**kelas  : TI.2O.A2**<br>
+**Matkul : Bahasa Pemrograman**<br>
 
 ## Praktikum 2
 ![Screenshot (18)](https://user-images.githubusercontent.com/73010098/98443269-e6457c80-213c-11eb-8505-0f52a8f824e9.png)
