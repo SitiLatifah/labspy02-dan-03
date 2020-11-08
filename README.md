@@ -34,4 +34,74 @@ Dibawah ini merupakan output dari syntax diatas
 
 #### SYNTAX
 Berikut merupakan syntax untuk menampilkan program diatas
+```python
+print('Bilangan Acak Yang Lebih Kecil Dari 0.5')
+import random
+n = int ( input ("Masukkan Nilai;"))
+a = 0
+for c in range (n):
+   a+= 1
+   b = random.uniform(.0, .5)
+   print('data ke:', a, '==>', b)
+   print("selesai")
+   ```
+#### OUTPUT
+![Screenshot (24)](https://user-images.githubusercontent.com/73010098/98456572-ec297500-21b1-11eb-8749-3c35f2c89e5c.png)
+
+#### latihan2.py
+![Screenshot (25)](https://user-images.githubusercontent.com/73010098/98456612-71ad2500-21b2-11eb-883f-4af28479ebfd.png)
+#### SYNTAX 
+Berikut merupakan syntax untuk menampilkan program di atas
+```python
+print('===== Menentukan Bilangan Terbesar =====')
+
+max=0
+
+while True:
+
+    a=int(input('Masukkan Bilangan = '))
+
+    if max < a:
+
+        max = a
+
+    if a==0:
+
+        break
+
+print('Bilangan Terbesar adalah = ',max)
+```
+#### OUTPUT
+![Screenshot (26)](https://user-images.githubusercontent.com/73010098/98456691-40812480-21b3-11eb-8893-6c10f8004a45.png)
+
+#### Program1.py
+
+#### SYNTAX
+Berikut merupakan syntax untuk menampilkan program diatas
+```python
+x=100000000
+
+sum=0
+
+y=0
+lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x) * .5, int(x) * .2]
+
+print('modal awal seorang pengusaha:', x)
+
+for i in lb :
+
+    sum=sum+i
+
+    y+=1
+
+    print('laba bulan ke-', y, 'sebesar :', i)
+```
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diaatas
+![Screenshot (27)](https://user-images.githubusercontent.com/73010098/98456886-6a871680-21b4-11eb-945b-7c992cbbc6a2.png)
+## AUTHOR SITI LATIFAH - 312010321
+
+
+
+
 
