@@ -96,6 +96,24 @@ for i in lb :
 
     print('laba bulan ke-', y, 'sebesar :', i)
 ```
+#### PENJELASAN PROGRAM
+Penjelasan Program
+```python
+x=100000000
+```
+Menampilkan kalimat Modal Awal : dan data yang berisi di n yaitu 100000000.
+```python
+lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) * .5, int(x) * .5, int(x) * .5, int(x) * .2]
+```
+Untuk Mendeklarasikan presentase laba tiap bulan dan di kali dengan x atau data inputan modal investasi yaitu 100000000.
+```python
+print('laba bulan ke-', y, 'sebesar :', i)
+```
+untuk perulangan data dengan isi data yaitu Y dengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y.
+```python
+print('total laba yang didapat adalah:', sum)
+```
+berisi data penjumlahan data angka yang ada didalam kode A,B,C,D,E,F,G,H yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan.
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diaatas
 ![Screenshot (27)](https://user-images.githubusercontent.com/73010098/98456886-6a871680-21b4-11eb-945b-7c992cbbc6a2.png)
